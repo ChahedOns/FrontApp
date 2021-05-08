@@ -1,0 +1,7 @@
+{
+  "name": "GFG",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
